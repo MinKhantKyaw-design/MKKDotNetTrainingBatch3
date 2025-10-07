@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetTrainingBatch3.ConsoleApp", "DotNetTrainingBatch3.ConsoleApp\DotNetTrainingBatch3.ConsoleApp.csproj", "{D6A7E10B-8656-4F12-9BB5-C01DAE677EC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKKDotNetTrainingBatch3.ConsoleApp2", "MKKDotNetTrainingBatch3.ConsoleApp1\MKKDotNetTrainingBatch3.ConsoleApp2.csproj", "{BA88F349-E237-4C31-B614-355B80A121D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKKDotNetTrainingBatch3.ConsoleApp1", "MKKDotNetTrainingBatch3.ConsoleApp1\MKKDotNetTrainingBatch3.ConsoleApp1.csproj", "{090BDF9B-A455-AF58-B0B3-6011E86A4737}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{D6A7E10B-8656-4F12-9BB5-C01DAE677EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6A7E10B-8656-4F12-9BB5-C01DAE677EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6A7E10B-8656-4F12-9BB5-C01DAE677EC5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BA88F349-E237-4C31-B614-355B80A121D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BA88F349-E237-4C31-B614-355B80A121D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BA88F349-E237-4C31-B614-355B80A121D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BA88F349-E237-4C31-B614-355B80A121D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090BDF9B-A455-AF58-B0B3-6011E86A4737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090BDF9B-A455-AF58-B0B3-6011E86A4737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090BDF9B-A455-AF58-B0B3-6011E86A4737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090BDF9B-A455-AF58-B0B3-6011E86A4737}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

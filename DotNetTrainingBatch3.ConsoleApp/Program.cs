@@ -6,8 +6,8 @@
 using DotNetTrainingBatch3.ConsoleApp;
 
 string bankName = "KBZ_Error";
-Bank bank1 = Enum.Parse<Bank>(bankName); // Throws an exception if the string does not match any enum name
-Bank bank = Bank.KBZ;
+// Bank bank1 = Enum.Parse<Bank>(bankName); // Throws an exception if the string does not match any enum name
+Bank bank1 = Bank.KBZ;
 switch (bank1)
 {
     case Bank.KBZ:
