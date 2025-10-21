@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetTrainingBatch3.Consol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKKDotNetTrainingBatch3.ConsoleApp1", "MKKDotNetTrainingBatch3.ConsoleApp1\MKKDotNetTrainingBatch3.ConsoleApp1.csproj", "{090BDF9B-A455-AF58-B0B3-6011E86A4737}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKKDotNetTrainingBatch3.ConsoleApp1.Database", "MKKDotNetTrainingBatch3.ConsoleApp1.Database\MKKDotNetTrainingBatch3.ConsoleApp1.Database.csproj", "{363D6744-79F2-4FAB-8397-F124AD32A9AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +28,10 @@ Global
 		{090BDF9B-A455-AF58-B0B3-6011E86A4737}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{090BDF9B-A455-AF58-B0B3-6011E86A4737}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{090BDF9B-A455-AF58-B0B3-6011E86A4737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363D6744-79F2-4FAB-8397-F124AD32A9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363D6744-79F2-4FAB-8397-F124AD32A9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363D6744-79F2-4FAB-8397-F124AD32A9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363D6744-79F2-4FAB-8397-F124AD32A9AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
