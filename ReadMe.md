@@ -1,6 +1,6 @@
 
 // Database base Scaffold Command
-dotnet ef dbcontext scaffold "Server=.;Database=MKKBatch3MiniPOS;User ID=sa;Password=P@ssw0rd;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o AppDbContextModels -c AppDbContext -f
+dotnet ef dbcontext scaffold "Server=.;Database=MKKBatch3MiniPOS;User ID=sa;Password=P@ssw0rd;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o DBFirstHWDbContextModels -c DBFirstHWDbContext -f
 
 Homework
 - ADO.NET - Project - 1
